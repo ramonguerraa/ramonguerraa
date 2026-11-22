@@ -27,7 +27,7 @@ I work with data to answer finance and operations questions. My training is in b
 
 ## Experience
 
-- **Assistant Professor**, Quantitative Methods for Administrative Sciences · 2011–2024 · appointed by public competitive examination
+- **Assistant Professor**, Quantitative Methods for Administrative Sciences · Universidad de Oriente · 2011–2024 · appointed by public competitive examination
   - Taught linear programming (graphical, analytical and simplex methods), transportation and assignment problems, decision analysis, regression and time series, network models, project management, simulation, Markov analysis, statistical quality control and Bayesian analysis.
 - **Teaching Assistant**, Statistics · Universidad del Zulia · 2009–2011
 
